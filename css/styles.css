@@ -1,0 +1,15 @@
+body {
+    background-color: #ffffff;
+}
+  
+#intro {
+    color: rgb(42, 29, 228);
+    text-align: center;
+    font-size: 40pt;
+}
+h2 {
+    font-style: italic;
+    color: forestgreen;
+    font-size: 30pt;
+}
+  
